@@ -1,0 +1,464 @@
+================================================================================
+WEBSITE ANALYSIS: professionalpressurewashing.net
+Captured: June 15, 2026
+Platform: WordPress.com (free hosted blog)
+================================================================================
+
+
+BRAND NAME
+----------
+Professional Pressure Washing
+
+
+TAGLINE
+-------
+Pressure Washing Service in the Cleveland Chattanooga and Athens Tn areas
+
+(This appears as the site subtitle beneath the logo on every page.)
+
+
+ONE-LINER
+---------
+"I'm Here for all your power washing needs."
+
+(Taken verbatim from the opening line of the Services page -- the most
+concise self-description on the site.)
+
+
+BRAND VOICE
+-----------
+- Highly personal and informal; written entirely in first person singular
+  ("I'm here," "just call me," "I'll tell you what I can do for you").
+- Solo-operator feel -- no corporate polish, no marketing copy, no
+  exclamation-point hype.
+- Brief, job-log style updates on the Blog ("Did some work down at the
+  Cleveland Country Club today.").
+- Closes with a faith reference: "May God bless anyone reading this today."
+- Honest and direct -- invites customers to call and describe what they
+  need rather than locking them into a preset menu.
+- No pricing language, no guarantees copy, no testimonials, no awards.
+
+
+COLORS
+------
+The site uses the default WordPress.com "Penscratch 2" or similar minimal
+theme. No custom brand palette is defined. Observed color values:
+
+  Background:       White (#ffffff)
+  Body text:        Dark gray / near-black (#1a1a1a or theme default)
+  Links / accents:  WordPress default blue (#0073aa or similar)
+  Header area:      White background with no custom color applied
+  Logo image:       Blue and white (logo3.png, 720x400px -- a simple
+                    wordmark-style logo with blue text on white)
+
+No custom CSS color overrides were detected. Color identity is essentially
+the logo graphic only.
+
+
+NAVIGATION MENU
+---------------
+Four top-level items (horizontal menu, appears on every page):
+
+  1. Home          -- https://professionalpressurewashing.net/
+  2. Contact       -- https://professionalpressurewashing.net/contact/
+  3. Blog          -- https://professionalpressurewashing.net/blog/
+  4. Services      -- https://professionalpressurewashing.net/services/
+
+No dropdown sub-menus. No mega-menu. No mobile hamburger noted (theme
+handles responsiveness natively via WordPress.com).
+
+
+HERO SECTION
+------------
+There is no designed hero section with a headline, subheadline, background
+image, or CTA button in the modern marketing sense.
+
+The homepage consists of:
+  - Logo image (top-left): logo3.png
+  - Site title text: "Professional Pressure Washing"
+  - Subtitle text: "Pressure Washing Service in the Cleveland Chattanooga
+    and Athens Tn areas"
+  - Page heading (H1): "Home"
+  - Body copy (the only content block): "Thank You For Your Consideration"
+  - Address block: 572 Hickory Hills Dr NE, Cleveland, TN 37323
+  - Phone number: 423-284-0419 (click-to-call link)
+
+The Contact page includes a full-width banner photo of a person at a desk
+with a smartphone (stock image, 1200x800px) -- the closest visual to a
+hero image anywhere on the site.
+
+
+SHADERS / BACKGROUNDS
+----------------------
+None. The site uses a flat white background throughout with no gradients,
+overlay shaders, parallax effects, video backgrounds, or decorative
+background patterns. Entirely unstyled beyond the WordPress.com theme
+defaults.
+
+
+SCROLL AREAS
+------------
+No custom scroll sections, sticky headers, scroll-triggered animations,
+or anchor-linked content zones exist on any page. Each page is a single
+short block of content -- most pages fit in one viewport without
+scrolling. The Blog page has a simple chronological post list with
+"Older posts" pagination.
+
+
+FEATURES SECTION
+----------------
+No dedicated features section exists. The closest equivalent is the
+Services page, which lists capabilities in two plain unordered lists:
+
+  RESIDENTIAL (includes but not limited to):
+    - Structure cleaning
+    - Sidewalk and drive-way cleaning and brightening
+    - Deck and Patio washing
+    - Curbing
+
+  COMMERCIAL (includes but not limited to):
+    - Structure cleaning
+    - Sidewalk, drive-ways and parking lots
+    - Restaurant drive-thrus, patios and dock areas
+    - Inspection clean-up
+    - Construction clean-up
+    - Seal coat prep
+
+  Closing note: "My services are not limited to the above items. Just
+  call me and tell me what you need done and I'll tell you what I can
+  do for you."
+
+No icons, images, benefit statements, or feature cards accompany these
+lists.
+
+
+PRICING SECTION
+---------------
+None. No pricing, rate cards, packages, or estimates are published
+anywhere on the site. The implicit call-to-action is to phone or contact
+directly for a quote.
+
+
+CALLS TO ACTION
+---------------
+Explicit CTAs are minimal and informal. All found instances:
+
+  1. Phone number (every page sidebar/footer):
+       423-284-0419
+       Rendered as a tel: link (click-to-call).
+
+  2. Address with Google Maps link (every page):
+       572 Hickory Hills Dr NE Cleveland, TN 37323
+       Links to Google Maps directions.
+
+  3. Contact page form prompt:
+       "Thank you for your response."
+       Form fields: Name (required), Email (required), Comment (required),
+       Submit button.
+
+  4. Services page implicit CTA:
+       "Just call me and tell me what you need done and I'll tell you
+       what I can do for you."
+
+  5. WordPress.com subscriber widget (every page):
+       "Subscribe" / "Sign me up" -- standard WordPress.com email
+       subscription prompt (not a business CTA).
+
+No buttons styled as CTAs, no pop-ups, no chat widgets, no booking
+calendars.
+
+
+CARDS
+-----
+No card UI components exist on the site. There are no service cards,
+team member cards, testimonial cards, or portfolio/gallery cards. All
+content is rendered as plain text paragraphs and unordered lists on a
+white background.
+
+
+FOOTER
+------
+The footer is minimal and consistent across all pages. It contains:
+
+  Left/sidebar area (appears below main content):
+    - Address: 572 Hickory Hills Dr NE Cleveland, TN 37323
+              (linked to Google Maps)
+    - Phone: 423-284-0419 (tel: link)
+    - Search bar: "Search for:" (standard WordPress.com search widget)
+
+  Bottom bar:
+    - Site name link: "Professional Pressure Washing"
+    - WordPress.com credit: "Blog at WordPress.com."
+
+  WordPress.com system bar (collapsible, appears for logged-in users
+  or as a subscribe prompt):
+    - Subscribe / Subscribed toggle
+    - Sign up / Log in links
+    - Copy shortlink
+    - Report this content
+    - View post in Reader
+    - Manage subscriptions
+    - Collapse this bar
+
+No social media icons, no copyright statement, no privacy policy link,
+no sitemap link, and no custom footer design. The footer is entirely
+generated by WordPress.com defaults.
+
+
+================================================================================
+GOOGLE BUSINESS PROFILE
+================================================================================
+
+Profile URL:
+  https://www.google.com/maps/place/Professional+Pressure+Wash/
+  @35.225505,-84.8232822
+  Place ID: 0x885e2e4ab0b70ac9:0xb2dd762f7ddf2afd
+  Listing path: /g/11f578h56g
+
+Business name on GBP:
+  Professional Pressure Wash
+  (Note: listed as "Wash" on Google, not "Washing" as on the website)
+
+Operator / Owner name (confirmed across reviews):
+  Junior McCartney (goes by "Jr." or "Junior")
+
+Total reviews: 13
+Overall star rating: Not captured (all individual reviews are 5-star
+  based on review text and response tone; no negative reviews present)
+
+--------------------------------------------------------------------------------
+ALL 13 GOOGLE REVIEWS (verbatim, in order as displayed)
+--------------------------------------------------------------------------------
+
+REVIEW 1
+  Reviewer:   Gary BB
+  Badge:      Local Guide, 21 reviews, 1 photo
+  Date:       6 years ago (approx. 2019-2020)
+  Stars:      5 (inferred from positive content and owner response)
+  Text:       "Junior was able to work us into his schedule early so our
+               house would be washed before a social event. We very much
+               appreciated that! When he came out he took his time and
+               didn't rush through it. The house looks much better now!"
+               [truncated with "More" on platform]
+  Owner reply: None
+
+REVIEW 2
+  Reviewer:   Jay Gulledge
+  Badge:      2 reviews
+  Date:       6 years ago (approx. 2019-2020)
+  Stars:      5 (inferred)
+  Text:       "Jr. pressure washed my self-storage buildings inside and
+               out. He did a great job fast for a fair price. I called him
+               out of the blue, he met me for a quote an hour later, and
+               did the job the next day. He was there around 6 AM and
+               worked til..." [truncated]
+  Owner reply: None
+
+REVIEW 3
+  Reviewer:   Tarik Issa
+  Badge:      1 review
+  Date:       a year ago (approx. 2024-2025)
+  Stars:      5 (inferred)
+  Text:       "Mr McCartney has been a wonderful and hardworking pressure
+               washer for many years and many of our businesses. I will
+               always appreciate his work ethic and his promptness in
+               his work."
+  Owner reply: None
+
+REVIEW 4
+  Reviewer:   Kyle Grimmonpre
+  Badge:      Local Guide, 39 reviews, 10 photos
+  Date:       2 years ago (approx. 2023-2024)
+  Stars:      5 (inferred)
+  Text:       "Jr was very responsive and came out the next day and gave
+               me a very fair quote and it was done within 24 hours.
+               Amazing experience, I would highly recommend him!"
+  Owner reply: "Thank you Kyle. Pleasure doing business with you."
+
+REVIEW 5
+  Reviewer:   Donald
+  Badge:      6 reviews
+  Date:       2 years ago (approx. 2023-2024)
+  Stars:      5 (inferred)
+  Text:       "My wife and I were very pleased with the work of Junior
+               McCartney at Professional Pressure Wash. His work was
+               excellent, the price was reasonable, and he was punctual
+               for the scheduled washing."
+  Owner reply: "Pleasure doing business with you"
+
+REVIEW 6
+  Reviewer:   Kathy McGill
+  Badge:      4 reviews
+  Date:       2 years ago (approx. 2023-2024)
+  Stars:      5 (inferred)
+  Text:       "I'm happy with the price and the work. Very nice person.
+               I asked him to get my porch ready for paint. He got all
+               the loose paint off."
+  Owner reply: "Thank you Miss Kathy, it was a pleasure doing business
+               with you."
+
+REVIEW 7
+  Reviewer:   John Hujus
+  Badge:      1 review
+  Date:       6 years ago (approx. 2019-2020)
+  Stars:      5 (inferred)
+  Text:       "used jr. for powerwashing my home..did an excellent
+               job..well worth the price...went above and beyond..highly
+               recommended his services"
+  Owner reply: "Thank you John. It was a pleasure doing business with
+               you. I hope your house sells quickly."
+               [Note: implies John was prepping for a home sale]
+
+REVIEW 8
+  Reviewer:   John Norton
+  Badge:      4 reviews
+  Date:       a year ago (approx. 2024-2025)
+  Stars:      5 (inferred)
+  Text:       "Was very prompt to show up and very friendly. I wouldn't
+               ever think about calling on anyone else to do all my work!"
+  Owner reply: "Thank you, John. Pleasure doing business with you."
+
+REVIEW 9
+  Reviewer:   Paul Roy
+  Badge:      Local Guide, 119 reviews, 26 photos
+  Date:       6 years ago (approx. 2019-2020)
+  Stars:      5 (inferred)
+  Text:       "Great job by a very professional guy! Give Junior a call
+               and you won't be disappointed!"
+  Owner reply: None
+
+REVIEW 10
+  Reviewer:   Frankie McCartney
+  Badge:      4 reviews
+  Date:       7 years ago (approx. 2018-2019)
+  Stars:      5 (inferred)
+  Text:       "Cleaner than when it was new! Thank you to such a
+               professional hard worker!"
+  Owner reply: None
+  [Note: Last name McCartney -- likely a family member of Junior]
+
+REVIEW 11
+  Reviewer:   Kelley Byrd
+  Badge:      Local Guide, 191 reviews, 18 photos
+  Date:       6 years ago (approx. 2019-2020)
+  Stars:      5 (inferred)
+  Text:       "Professional reasonable and responsive"
+  Owner reply: "Thank you Kelly. It was a pleasure doing business with
+               you. God bless and have a great day"
+
+REVIEW 12
+  Reviewer:   Gabriel Castro
+  Badge:      1 review, 4 photos
+  Date:       2 months ago (approx. April 2026)
+  Stars:      5 (inferred)
+  Text:       "We had severe dirt and mud covering our brand new paved
+               parking lot. Junior did an excellent job at cleaning it up.
+               He made it look brand new again. Would highly recommend."
+  Owner reply: None
+  [Note: Gabriel Castro uploaded 4 photos to the GBP listing]
+
+REVIEW 13
+  Reviewer:   Ahmad Abdullah
+  Badge:      3 reviews
+  Date:       2 months ago (approx. April 2026)
+  Stars:      5 (inferred)
+  Text:       "great! Very attentive to details - Junior worked diligently
+               to bring back to life my driveway and sidewalks, looks
+               brand new again. Highly recommend! Great person I really
+               appreciate it Junior. Thank you for the exceptional job."
+  Owner reply: None
+
+--------------------------------------------------------------------------------
+REVIEW THEMES AND INSIGHTS
+--------------------------------------------------------------------------------
+
+Most frequently praised attributes (across all 13 reviews):
+  1. Responsiveness / same-day or next-day availability
+  2. Punctuality (early arrival, honoring schedule)
+  3. Fair / reasonable pricing
+  4. Quality of results ("looks brand new," "above and beyond")
+  5. Personal character (friendly, hardworking, trustworthy)
+  6. Willingness to accommodate unusual requests (pre-paint prep,
+     6 AM start, early scheduling for social events)
+
+Job types mentioned in reviews:
+  - House / home exterior washing
+  - Self-storage buildings (interior and exterior)
+  - Multiple commercial buildings (Tarik Issa: "many of our businesses")
+  - Porch prep for painting (loose paint removal)
+  - Driveway and sidewalks
+  - Paved parking lot (mud/dirt removal -- new pavement)
+
+Review timeline:
+  Oldest:  7 years ago (Frankie McCartney, ~2018-2019)
+  Newest:  2 months ago (Gabriel Castro and Ahmad Abdullah, ~April 2026)
+  Active:  Business has received reviews as recently as April 2026,
+           indicating Junior is still actively working despite the
+           website being dormant since May 2018.
+
+Owner reply pattern:
+  Junior replies to roughly half the reviews. Every reply uses a
+  consistent closing formula: "Pleasure doing business with you" or
+  "It was a pleasure doing business with you." One reply adds
+  "God bless and have a great day" -- consistent with the faith
+  reference on the blog. One reply reveals context: "I hope your
+  house sells quickly" (John Hujus review), showing he takes time
+  to personalize responses.
+
+--------------------------------------------------------------------------------
+GBP PHOTOS
+--------------------------------------------------------------------------------
+
+Photo contributor confirmed: Gabriel Castro (1 review, 4 photos)
+  -- Photos are of a paved parking lot cleaning job (before/after
+     implied by the review context: severe mud and dirt on new pavement).
+
+Additional photo noted: Gary BB (Local Guide, 1 photo on profile)
+  -- Subject of photo not specified in the data provided.
+
+Total photos on GBP: At minimum 5 (4 from Gabriel Castro + 1 from
+  Gary BB). Additional owner-uploaded photos may exist but were not
+  confirmed in the data provided.
+
+Photo URLs: Not captured (Google Maps photo URLs require JavaScript
+  rendering and are session-specific; they cannot be harvested via
+  web fetch). To obtain direct image URLs, open the Maps profile,
+  click each photo, and copy the URL from the browser address bar,
+  or right-click the image and select "Copy image address."
+
+================================================================================
+ADDITIONAL NOTES
+================================================================================
+
+BLOG CONTENT (real job log entries found on /blog/):
+  - "Pressure washed a house and veranda in Cleveland TN last week.
+     Completed my weekly restaurant drive-thru service as well.
+     May God bless anyone reading this today." (May 6, 2018)
+  - "Did some work down at the Cleveland Country Club today. I also
+     washed the pool decking in another place earlier in the week."
+     (April 26, 2018)
+  - "Power washed Buffalo Wild Wings patio and Star Plaza sidewalks
+     tonight as well as fast food drive thrus in Cleveland Tennessee."
+     (April 12, 2018)
+  - "Washing a house and driveway in Ocoee TN today. Did a full
+     corporate inspection wash on Ooltewah McDonalds last night.
+     Pressure washed my neighbors house, pool decking and drive-way
+     yesterday." (April 11, 2018)
+  - "Pressure washed doublewide and deck in Benton Tennessee today."
+     (April 2, 2018)
+
+SERVICE AREA (confirmed from site content):
+  Cleveland, TN | Chattanooga, TN | Athens, TN | Ocoee, TN |
+  Benton, TN | Ooltewah, TN
+
+LAST ACTIVITY:
+  Most recent blog post dated May 6, 2018. Site appears dormant since
+  mid-2018 but remains live and indexed.
+
+TECHNOLOGY STACK:
+  Platform:    WordPress.com (hosted)
+  Theme:       Default WordPress.com minimal theme
+  Logo image:  /wp-content/uploads/2018/03/logo3.png (720x400, PNG)
+  No custom plugins, no e-commerce, no analytics tags detected beyond
+  WordPress.com's native pixel (pixel.wp.com/b.gif).
+================================================================================
